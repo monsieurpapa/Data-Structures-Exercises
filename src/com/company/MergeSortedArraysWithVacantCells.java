@@ -48,6 +48,11 @@ public class MergeSortedArraysWithVacantCells {
         // merge X[0...k-1] and Y[0..n-1] to X[0..m-1]
         merge(X,Y,k-1,Y.length-1);
     }
+    public static void thisisForGitTrial(){
+        int x = 2;
+        if (2==x)
+            System.out.println("YOU ARE NOT CRAZY");
+    }
 
     // To the main method for execution
 
