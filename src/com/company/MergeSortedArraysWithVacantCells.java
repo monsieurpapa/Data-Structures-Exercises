@@ -51,6 +51,7 @@ public class MergeSortedArraysWithVacantCells {
     public static void thisisForGitTrial(){
         int x = 2;
         if (2==x)
+            System.out.println("THIS IS NOT CRAZY TOOO... it's for Git purposes");
             System.out.println("YOU ARE NOT CRAZY");
     }
 
