@@ -47,7 +47,10 @@ public class MergeTwoSortedArrays {
 
                System.out.println("X : "+ Arrays.toString(X));
                 System.out.println("B : "+ Arrays.toString(Y));
-            }
+
+                System.out.println("THIS IS FOR GIT TRIALS");
+    }
+
 
 
 }
